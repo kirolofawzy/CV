@@ -1,0 +1,14 @@
+body{
+   background-color: black;
+   background-image: url(fdeaebe8-865d-453b-9da9-1b94024454b2.png);
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+.exper{
+    background-color: aqua;
+    outline: blue 2px solid;
+}
+h2{
+   background-color: aqua;
+   border: 2px red solid;
+}
